@@ -1,0 +1,3 @@
+[submodule "POC-submodule-subrepo"]
+	path = POC-submodule-subrepo
+	url = git@github.com:bhushan-gaikwad/POC-submodule-subrepo.git

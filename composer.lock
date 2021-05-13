@@ -1,0 +1,40 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7a68bcd682e1820d43b39afb30575c65",
+    "packages": [
+        {
+            "name": "bhushan/poc-submodule-subrepo",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "./POC-submodule-subrepo",
+                "reference": "181e422bb2e54f0a1777ed22e0131d74334bb241"
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "Bhushan",
+                    "email": "bhushan.gaikwad@gelato.com"
+                }
+            ],
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "bhushan/poc-submodule-subrepo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

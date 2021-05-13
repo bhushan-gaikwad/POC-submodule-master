@@ -6,5 +6,11 @@
       "email": "bhushan.gaikwad@gelato.com"
     }
   ],
-  "require": {}
+  "require": {
+    "bhushan/poc-submodule-subrepo": "dev-main"
+  },
+  "repositories": [{
+    "type": "path",
+    "url": "./POC-submodule-subrepo"
+  }]
 }
