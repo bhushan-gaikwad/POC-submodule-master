@@ -7,10 +7,12 @@
     }
   ],
   "require": {
-    "bhushan/poc-submodule-subrepo": "dev-main"
+    "bhushan/poc-submodule-subrepo": "1.0.1"
   },
-  "repositories": [{
-    "type": "path",
-    "url": "./POC-submodule-subrepo"
-  }]
+  "repositories": [
+    {
+      "type": "path",
+      "url": "./POC-submodule-subrepo"
+    }
+  ]
 }
